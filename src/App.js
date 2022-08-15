@@ -3,9 +3,11 @@ import './styles/globals.css';
 
 function App() {
   return (
-    <Layout>
-      Hola mundo
-    </Layout>
+    <>
+      <Layout>
+        
+      </Layout>
+    </>
   );
 }
 
