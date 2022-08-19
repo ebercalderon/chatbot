@@ -12,13 +12,13 @@ export const useDarkMode = () => {
     useEffect(() => {
         const html = window.document.documentElement;
 
-        const nextTheme = isDarkMode ? "dark" : "light";
-        html.classList.add(nextTheme);
+        const theme = isDarkMode ? "dark" : "light";
+        html.classList.add(theme);
 
         const prevTheme = isDarkMode ? "light" : "dark";
         html.classList.remove(prevTheme);
 
-        localStorage.setItem("theme", nextTheme);
+        localStorage.setItem("theme", theme);
 
     }, [isDarkMode]);
 

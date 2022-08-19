@@ -33,10 +33,10 @@ const Navbar = () => {
                 <div className="hidden px-2 mx-2 lg:flex">
                     <div className="flex items-center">
                         <NavLink to='/'>
-                            <a className="btn hover:bg-slate-300 dark:hover:bg-slate-600 btn-ghost rounded-btn mx-2">HOME </a>
+                            <a className="btn hover:bg-slate-300 dark:hover:bg-slate-600 btn-ghost rounded-btn mx-2">OPTION 1</a>
                         </NavLink>
                         <NavLink to="/">
-                            <a className="btn hover:bg-slate-300 dark:hover:bg-slate-600 btn-ghost rounded-btn mx-3">COURSES</a>
+                            <a className="btn hover:bg-slate-300 dark:hover:bg-slate-600 btn-ghost rounded-btn mx-3">OPTION 2</a>
                         </NavLink>
                     </div>
                 </div>
