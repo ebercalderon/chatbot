@@ -1,7 +1,7 @@
 import { NavLink } from "react-router-dom";
 import Logo from '../images/logo.png';
 import { useDarkMode } from "../utilities/Hooks/useDarkMode";
-import { FaMoon, FaSun} from "react-icons/fa";
+import { FaMoon, FaSun } from "react-icons/fa";
 
 const Navbar = () => {
 
@@ -10,7 +10,7 @@ const Navbar = () => {
     return (
         <nav className="sticky top-0 w-full z-50 text-gray-800">
             <div className="navbar bg-slate-200 dark:bg-[#1b222d] dark:text-white h-[70px]">
-                
+
                 <div className="flex-1 pl-10 mx-2">
                     <NavLink to="/">
                         <a>
