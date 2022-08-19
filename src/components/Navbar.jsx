@@ -24,8 +24,8 @@ const Navbar = () => {
                 <div className='items-center flex'>
                     <span className='px-2 text-slate-700 dark:text-slate-200'><FaMoon /></span>
                     {
-                        isDarkMode ? <input type="checkbox" className="toggle bg-teal-700" onChange={toggleDarkMode} /> :
-                            <input type="checkbox" className="toggle bg-teal-700" defaultChecked onChange={toggleDarkMode} />
+                        isDarkMode ? <input type="checkbox" className="toggle bg-teal-600" onChange={toggleDarkMode} /> :
+                            <input type="checkbox" className="toggle bg-teal-600" defaultChecked onChange={toggleDarkMode} />
                     }
                     <span className='px-2 text-slate-700 dark:text-slate-200'><FaSun /></span>
                 </div>
