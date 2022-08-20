@@ -2,7 +2,7 @@ import React from 'react';
 import { NavLink } from "react-router-dom";
 import { BsArrowRight } from "react-icons/bs";
 
-const FeaturedTopicSection = () => {
+const Guides = () => {
 
     return (
         <div className="bg-white dark:bg-slate-800">
@@ -45,4 +45,4 @@ const FeaturedTopicSection = () => {
     );
 };
 
-export default FeaturedTopicSection;
+export default Guides;

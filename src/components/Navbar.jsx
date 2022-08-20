@@ -1,11 +1,18 @@
 import { NavLink } from "react-router-dom";
+import React, { useState } from 'react';
 import Logo from '../images/logo.png';
 import { useDarkMode } from "../utilities/Hooks/useDarkMode";
 import { FaMoon, FaSun } from "react-icons/fa";
+import { HiMenu, HiOutlineX } from 'react-icons/hi';
 
 const Navbar = () => {
 
     const [isDarkMode, toggleDarkMode] = useDarkMode();
+
+    const [nav, setNav] = useState(false)
+
+    const handleClick = () => setNav(!nav)
+    const handleClose = () => setNav(!nav)
 
     return (
         <nav className="sticky top-0 w-full z-50 text-gray-800">
@@ -40,23 +47,19 @@ const Navbar = () => {
                             </NavLink>
                         </div>
                     </div>
+
                 </div>
+
                 <div className="flex-none lg:hidden dropdown dropdown-left">
-                    <button tabIndex="0" className="m-1 btn hover:bg-gray-800 btn-square hover:text-white btn-ghost">
-                        <svg xmlns="http://www.w3.org/2000/svg" fill="none" viewBox="0 0 24 24" className="inline-block w-6 h-6 stroke-current">
-                            <path strokeLinecap="round" strokeLinejoin="round" strokeWidth="2" d="M4 6h16M4 12h16M4 18h16"></path>
-                        </svg>
+                    <button tabIndex="0" className="m-1 btn hover:bg-gray-800 btn-square hover:text-white btn-ghost" onClick={handleClick}>
+                        <HiMenu className='inline-block w-6 h-6 stroke-current' />
                     </button>
-                    <ul tabIndex="0" className="p-2 relative top-10 shadow menu dropdown-content bg-slate-100 dark:bg-slate-600 rounded-box w-52 mt-2">
+                    <ul tabIndex="0" className={!nav ? "hidden" : "p-2 relative top-10 shadow menu dropdown-content bg-slate-100 dark:bg-slate-600 rounded-box w-52 mt-2"}>
                         <div className="btn hover:bg-slate-300 dark:hover:bg-slate-500 btn-ghost rounded-btn mx-2">
-                            <NavLink to='/'>
-                                OPTION 1
-                            </NavLink>
+                            <NavLink to='/' onClick={handleClose}>OPTION 1</NavLink>
                         </div>
                         <div className="btn hover:bg-slate-300 dark:hover:bg-slate-500 btn-ghost rounded-btn mx-2">
-                            <NavLink to='/'>
-                                OPTION 2
-                            </NavLink>
+                            <NavLink to='/' onClick={handleClose}>OPTION 2</NavLink>
                         </div>
                     </ul>
                 </div>
