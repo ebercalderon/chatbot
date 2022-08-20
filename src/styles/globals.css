@@ -46,7 +46,7 @@ input[type="number"] {
   text-align: center;
   cursor: pointer;
   color: #ffffff;
-  background: #7157F6;
+  background: #7157f6;
   width: 50px;
   height: 50px;
   float: right;
@@ -73,8 +73,8 @@ input[type="number"] {
 /* Pop-up */
 .stickyGoToTop {
   bottom: -60px;
-  -webkit-transition: bottom .2s ease-in-out;
-  transition: bottom .2s ease-in-out;
+  -webkit-transition: bottom 0.2s ease-in-out;
+  transition: bottom 0.2s ease-in-out;
   z-index: 9999;
 }
 .popup2 {
@@ -82,8 +82,8 @@ input[type="number"] {
 }
 .sticky-footer {
   bottom: -204px;
-  -webkit-transition: bottom .2s ease-in-out;
-  transition: bottom .2s ease-in-out;
+  -webkit-transition: bottom 0.2s ease-in-out;
+  transition: bottom 0.2s ease-in-out;
 }
 .popup {
   bottom: calc(-24px);

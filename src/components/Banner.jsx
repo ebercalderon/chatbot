@@ -5,7 +5,7 @@ import Slider from "react-slick";
 import "slick-carousel/slick/slick-theme.css";
 import "slick-carousel/slick/slick.css";
 
-const Section1 = () => {
+const Banner = () => {
     var settings = {
         slidesToShow: 1,
         slidesToScroll: 1,
@@ -86,4 +86,4 @@ const Section1 = () => {
     );
 };
 
-export default Section1;
+export default Banner;

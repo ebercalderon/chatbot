@@ -1,13 +1,13 @@
-import Layout from './components/Layout';
-import Section1 from './components/Section1';
-import Guides from './components/Guides';
-import './styles/globals.css';
+import Layout from "./components/Layout";
+import Banner from "./components/Banner";
+import Guides from "./components/Guides";
+import "./styles/globals.css";
 
 function App() {
   return (
     <>
       <Layout>
-        <Section1 />
+        <Banner />
         <Guides />
       </Layout>
     </>
