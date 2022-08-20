@@ -6,7 +6,7 @@ const FeaturedTopicSection = () => {
 
     return (
         <div className="bg-white dark:bg-slate-800">
-            <section className='container mx-auto pb-20 py-10 lg:px-10'>
+            <section className='container mx-auto pb-20 py-5 lg:px-10'>
                 <h1 className='text-5xl font-bold text-center mb-10 text-violet-800 px-2 dark:text-violet-400'>Installation Guides</h1>
                 <div className='grid grid-rows-1 sm:grid-cols-3 my-5 mx-5 bg-slate-100 rounded-md shadow-md py-6 dark:bg-slate-700'>
                     <div className='col-span-2 px-4 sm:px-8'>
