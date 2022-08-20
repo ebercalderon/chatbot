@@ -1,7 +1,6 @@
 module.exports = {
   content: [
     "./src/**/*.{js,jsx,ts,tsx}",
-    "./components/**/*.{js,ts,jsx,tsx}",
   ],
   darkMode: "class",
   theme: {
@@ -12,16 +11,16 @@ module.exports = {
     themes: [
       {
         'mytheme': {
-          'primary': '#3F3F46',
-          'primary-focus': '#3F3F46',
+          'primary': '#a991f7',
+          'primary-focus': '#8462f4',
           'primary-content': '#ffffff',
 
-          'secondary': '#3F3F46',
-          'secondary-focus': '#3F3F46',
+          'secondary': '#f6d860',
+          'secondary-focus': '#f3cc30',
           'secondary-content': '#ffffff',
 
-          'accent': '#3F3F46',
-          'accent-focus': '#3F3F46',
+          'accent': '#E11D48',
+          'accent-focus': '#2aa79b',
           'accent-content': '#ffffff',
 
           'neutral': '#3d4451',
@@ -32,7 +31,7 @@ module.exports = {
           'base-200': '#f9fafb',
           'base-300': '#d1d5db',
           'base-content': '#1f2937',
-          
+
           'info': '#2094f3',
           'success': '#009485',
           'warning': '#ff9900',

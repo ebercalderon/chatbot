@@ -11,13 +11,13 @@ const Navbar = () => {
         <nav className="sticky top-0 w-full z-50 text-gray-800">
             <div className="navbar bg-slate-200 dark:bg-[#1b222d] dark:text-white h-[70px]">
                 <div className="flex-1 pl-10 mx-2">
-                    <NavLink to="/">
-                        <a>
-                            <div className="relative top-[9px]">
+                    <li>
+                        <NavLink to="/">
+                            <div className="relative top-[9px] shadow-md">
                                 <img src={Logo} alt="/" width="80px" height="80px" draggable="false" />
                             </div>
-                        </a>
-                    </NavLink>
+                        </NavLink>
+                    </li>
                 </div>
                 <div className='items-center flex'>
                     <span className='px-2 text-slate-700 dark:text-slate-200'><FaMoon /></span>
@@ -29,12 +29,16 @@ const Navbar = () => {
                 </div>
                 <div className="hidden px-2 mx-2 lg:flex">
                     <div className="flex items-center">
-                        <NavLink to='/'>
-                            <a className="btn hover:bg-slate-300 dark:hover:bg-slate-600 btn-ghost rounded-btn mx-2">OPTION 1</a>
-                        </NavLink>
-                        <NavLink to="/">
-                            <a className="btn hover:bg-slate-300 dark:hover:bg-slate-600 btn-ghost rounded-btn mx-3">OPTION 2</a>
-                        </NavLink>
+                        <li>
+                            <NavLink to='/' className="btn hover:bg-slate-300 dark:hover:bg-slate-600 btn-ghost rounded-btn mx-2">
+                                OPTION 1
+                            </NavLink>
+                        </li>
+                        <li>
+                            <NavLink to="/" className="btn hover:bg-slate-300 dark:hover:bg-slate-600 btn-ghost rounded-btn mx-3">
+                                OPTION 2
+                            </NavLink>
+                        </li>
                     </div>
                 </div>
                 <div className="flex-none lg:hidden dropdown dropdown-left">
@@ -45,13 +49,13 @@ const Navbar = () => {
                     </button>
                     <ul tabIndex="0" className="p-2 relative top-10 shadow menu dropdown-content bg-slate-100 dark:bg-slate-600 rounded-box w-52 mt-2">
                         <li>
-                            <NavLink to='/'>
-                                <a className="btn hover:bg-slate-300 dark:hover:bg-slate-500 btn-ghost rounded-btn mx-2">OPTION 1</a>
+                            <NavLink to='/' className="btn hover:bg-slate-300 dark:hover:bg-slate-500 btn-ghost rounded-btn mx-2">
+                                OPTION 1
                             </NavLink>
                         </li>
                         <li>
-                            <NavLink to='/'>
-                                <a className="btn hover:bg-slate-300 dark:hover:bg-slate-500 btn-ghost rounded-btn mx-3">OPTION 2</a>
+                            <NavLink to='/' className="btn hover:bg-slate-300 dark:hover:bg-slate-500 btn-ghost rounded-btn mx-3">
+                                OPTION 2
                             </NavLink>
                         </li>
                     </ul>
