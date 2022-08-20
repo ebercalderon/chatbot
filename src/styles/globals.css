@@ -30,6 +30,11 @@ input[type="number"] {
   -moz-appearance: textfield;
 }
 
+/* Banner */
+.slick-list{
+  padding-bottom: 0 !important;
+}
+
 /* Chatbot */
 #chat-bot {
   position: fixed;

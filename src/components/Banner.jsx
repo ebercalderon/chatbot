@@ -48,26 +48,15 @@ const Banner = () => {
                                     <h2 className="text-5xl md:text-6xl font-bold text-violet-800 dark:text-violet-400">Subtitle 1</h2>
                                     <p className="py-5 text-2xl lg:w-3/4 xl:w-1/2">Lorem ipsum dolor sit amet. In consectetur mollitia ut placeat esse id consequatur mollitia</p>
                                 </div>
-
-
                                 <div>
                                     <h2 className="text-5xl md:text-6xl font-bold text-violet-800 dark:text-violet-400">Subtitle 2</h2>
                                     <p className="py-5 text-2xl lg:w-3/4 xl:w-1/2">Lorem ipsum dolor sit amet. In consectetur mollitia ut placeat esse id consequatur mollitia</p>
                                 </div>
-
-
                                 <div>
                                     <h2 className="text-5xl md:text-6xl font-bold text-violet-800 dark:text-violet-400">Subtitle 3</h2>
                                     <p className="py-5 text-2xl lg:w-3/4 xl:w-1/2">Lorem ipsum dolor sit amet. In consectetur mollitia ut placeat esse id consequatur mollitia</p>
                                 </div>
                             </Slider>
-                            <style jsx global>
-                                {`
-                                        .slick-list{
-                                            padding-bottom: 0 !important;
-                                        }
-                                    `}
-                            </style>
                         </div>
                         <NavLink passHref to="/">
                             <button className="bg-teal-600 animate-[pulse_2s_ease-in-out_infinite] rounded-md text-white px-7 py-3 my-5 flex justify-center items-center">

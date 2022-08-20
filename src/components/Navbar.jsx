@@ -10,7 +10,6 @@ const Navbar = () => {
     return (
         <nav className="sticky top-0 w-full z-50 text-gray-800">
             <div className="navbar bg-slate-200 dark:bg-[#1b222d] dark:text-white h-[70px]">
-
                 <div className="flex-1 pl-10 mx-2">
                     <NavLink to="/">
                         <a>
@@ -20,7 +19,6 @@ const Navbar = () => {
                         </a>
                     </NavLink>
                 </div>
-
                 <div className='items-center flex'>
                     <span className='px-2 text-slate-700 dark:text-slate-200'><FaMoon /></span>
                     {
@@ -29,7 +27,6 @@ const Navbar = () => {
                     }
                     <span className='px-2 text-slate-700 dark:text-slate-200'><FaSun /></span>
                 </div>
-
                 <div className="hidden px-2 mx-2 lg:flex">
                     <div className="flex items-center">
                         <NavLink to='/'>
@@ -40,7 +37,6 @@ const Navbar = () => {
                         </NavLink>
                     </div>
                 </div>
-
             </div>
         </nav>
     );
