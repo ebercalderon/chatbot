@@ -1,15 +1,20 @@
+import { BrowserRouter, Route, Routes } from "react-router-dom";
 import Layout from "./components/Layout";
-import Banner from "./components/Banner";
-import Guides from "./components/Guides";
+import Home from "./pages/Home";
+import Section from "./pages/Section";
 import "./styles/globals.css";
 
 function App() {
   return (
     <>
-      <Layout>
-        <Banner />
-        <Guides />
-      </Layout>
+      <BrowserRouter>
+        <Layout>
+          <Routes>
+            <Route path="/" element={<Home />} />
+            <Route path="/section" element={<Section />} />
+          </Routes>
+        </Layout>
+      </BrowserRouter>
     </>
   );
 }

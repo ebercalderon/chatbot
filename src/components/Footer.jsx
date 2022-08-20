@@ -33,7 +33,9 @@ const Footer = () => {
     return (
         <div>
             <div className="h-[100px] bg-slate-200 dark:bg-slate-600 text-slate-700 dark:text-slate-100 block w-full flex justify-center">
-                    <h3 className='text-small pt-10'>Ⓒ All Right Reserved by Eber Calderon | 2022</h3>
+                <h3 className='text-small pt-10'>Powered by
+                    <a href="https://github.com/ebercalderon" target="_blank"> <u>Eber Calderon</u></a>
+                </h3>
             </div>
             <button className="stickyGoToTop fixed right-5 btn btn-ghost rounded-btn m-5 dark:text-slate-200" id="sticky2" onClick={topFunction}>
                 <BsArrowUpCircleFill style={{ fontSize: 25 }} />

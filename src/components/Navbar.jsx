@@ -3,7 +3,7 @@ import React, { useState } from 'react';
 import Logo from '../images/logo.png';
 import { useDarkMode } from "../utilities/Hooks/useDarkMode";
 import { FaMoon, FaSun } from "react-icons/fa";
-import { HiMenu, HiOutlineX } from 'react-icons/hi';
+import { HiMenu} from 'react-icons/hi';
 
 const Navbar = () => {
 
@@ -42,7 +42,7 @@ const Navbar = () => {
                             </NavLink>
                         </div>
                         <div>
-                            <NavLink to="/" className="btn hover:bg-slate-300 dark:hover:bg-slate-600 btn-ghost rounded-btn mx-2">
+                            <NavLink to="/section" className="btn hover:bg-slate-300 dark:hover:bg-slate-600 btn-ghost rounded-btn mx-2">
                                 OPTION 2
                             </NavLink>
                         </div>
@@ -56,10 +56,14 @@ const Navbar = () => {
                     </button>
                     <ul tabIndex="0" className={!nav ? "hidden" : "p-2 relative top-10 shadow menu dropdown-content bg-slate-100 dark:bg-slate-600 rounded-box w-52 mt-2"}>
                         <div className="btn hover:bg-slate-300 dark:hover:bg-slate-500 btn-ghost rounded-btn mx-2">
-                            <NavLink to='/' onClick={handleClose}>OPTION 1</NavLink>
+                            <NavLink to='/' onClick={handleClose}>
+                                OPTION 1
+                            </NavLink>
                         </div>
                         <div className="btn hover:bg-slate-300 dark:hover:bg-slate-500 btn-ghost rounded-btn mx-2">
-                            <NavLink to='/' onClick={handleClose}>OPTION 2</NavLink>
+                            <NavLink to='/section' onClick={handleClose}>
+                                OPTION 2
+                            </NavLink>
                         </div>
                     </ul>
                 </div>
