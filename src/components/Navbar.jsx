@@ -29,16 +29,16 @@ const Navbar = () => {
                 </div>
                 <div className="hidden px-2 mx-2 lg:flex">
                     <div className="flex items-center">
-                        <li>
+                        <div>
                             <NavLink to='/' className="btn hover:bg-slate-300 dark:hover:bg-slate-600 btn-ghost rounded-btn mx-2">
                                 OPTION 1
                             </NavLink>
-                        </li>
-                        <li>
-                            <NavLink to="/" className="btn hover:bg-slate-300 dark:hover:bg-slate-600 btn-ghost rounded-btn mx-3">
+                        </div>
+                        <div>
+                            <NavLink to="/" className="btn hover:bg-slate-300 dark:hover:bg-slate-600 btn-ghost rounded-btn mx-2">
                                 OPTION 2
                             </NavLink>
-                        </li>
+                        </div>
                     </div>
                 </div>
                 <div className="flex-none lg:hidden dropdown dropdown-left">
@@ -48,16 +48,16 @@ const Navbar = () => {
                         </svg>
                     </button>
                     <ul tabIndex="0" className="p-2 relative top-10 shadow menu dropdown-content bg-slate-100 dark:bg-slate-600 rounded-box w-52 mt-2">
-                        <li>
-                            <NavLink to='/' className="btn hover:bg-slate-300 dark:hover:bg-slate-500 btn-ghost rounded-btn mx-2">
+                        <div className="btn hover:bg-slate-300 dark:hover:bg-slate-500 btn-ghost rounded-btn mx-2">
+                            <NavLink to='/'>
                                 OPTION 1
                             </NavLink>
-                        </li>
-                        <li>
-                            <NavLink to='/' className="btn hover:bg-slate-300 dark:hover:bg-slate-500 btn-ghost rounded-btn mx-3">
+                        </div>
+                        <div className="btn hover:bg-slate-300 dark:hover:bg-slate-500 btn-ghost rounded-btn mx-2">
+                            <NavLink to='/'>
                                 OPTION 2
                             </NavLink>
-                        </li>
+                        </div>
                     </ul>
                 </div>
             </div>
