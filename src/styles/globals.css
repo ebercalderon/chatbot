@@ -30,6 +30,65 @@ input[type="number"] {
   -moz-appearance: textfield;
 }
 
+/* Chatbot */
+#chat-bot {
+  position: fixed;
+  bottom: 5rem;
+  right: 6rem;
+  z-index: 99999999999999999;
+  height: auto;
+  float: right;
+}
+#chat-bot .icon {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+  cursor: pointer;
+  color: #ffffff;
+  background: #7157F6;
+  width: 50px;
+  height: 50px;
+  float: right;
+  border-radius: 10px;
+  padding: 10px 15px;
+  transition: 0.2s all;
+  overflow: hidden;
+}
+#chat-bot .icon .user {
+  visibility: hidden;
+  margin-left: -100px;
+}
+#chat-bot .icon.expanded {
+  width: 100px;
+  justify-content: space-between;
+}
+
+#chat-bot .icon.expanded .user {
+  visibility: visible;
+  margin-left: 0;
+  transition: 0.5s;
+}
+
+/* Pop-up */
+.stickyGoToTop {
+  bottom: -60px;
+  -webkit-transition: bottom .2s ease-in-out;
+  transition: bottom .2s ease-in-out;
+  z-index: 9999;
+}
+.popup2 {
+  bottom: 60px;
+}
+.sticky-footer {
+  bottom: -204px;
+  -webkit-transition: bottom .2s ease-in-out;
+  transition: bottom .2s ease-in-out;
+}
+.popup {
+  bottom: calc(-24px);
+}
+
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
