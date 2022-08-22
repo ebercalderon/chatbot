@@ -106,13 +106,11 @@ const steps = [
 
 function Contenido() {
   return (
-    <>
-      <div>
-        <div className="bg-slate-200 dark:bg-slate-800 block w-full flex justify-center p-20">
-          <ChatBot steps={steps} />
-        </div>
+    <div>
+      <div className="bg-slate-200 dark:bg-slate-800 block w-full flex justify-center p-20">
+        <ChatBot steps={steps} />
       </div>
-    </>
+    </div>
   );
 }
 

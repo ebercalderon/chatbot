@@ -1,7 +1,9 @@
+import Chatbot from "../components/AI/Chatbot";
 
 const Chat = () => {
     return (
         <>
+            <Chatbot />
         </>
     );
 };
