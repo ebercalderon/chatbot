@@ -1,7 +1,5 @@
 import React from 'react';
-import { NavLink } from "react-router-dom";
 import { BsArrowUpCircleFill } from 'react-icons/bs';
-import { FaHeadset } from "react-icons/fa";
 
 const Footer = () => {
     window.onload = (function () {
@@ -21,11 +19,6 @@ const Footer = () => {
         }
     });
 
-    function helpLine() {
-        const chatBtn = document.getElementById("chat-icon");
-        chatBtn.classList.toggle("expanded");
-    };
-
     function topFunction() {
         window.scrollTo({ top: 0, behavior: 'smooth' });
     }
@@ -41,14 +34,6 @@ const Footer = () => {
                 <BsArrowUpCircleFill style={{ fontSize: 25 }} />
             </button>
             <div className="sticky-footer hidden md:block w-full fixed left-0 right-0 bottom-0" id="sticky">
-            </div>
-            <div id="chat-bot">
-                <div className="icon" id="chat-icon" onClick={() => helpLine()}>
-                    <NavLink to="/" >
-                        <div className="user"> Hi! </div>
-                    </NavLink>
-                    <FaHeadset className="text-4xl" />
-                </div>
             </div>
         </div>
     );
