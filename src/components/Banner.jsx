@@ -58,7 +58,7 @@ const Banner = () => {
                                 </div>
                             </Slider>
                         </div>
-                        <NavLink passHref to="/">
+                        <NavLink to="/">
                             <button className="bg-teal-600 animate-[pulse_2s_ease-in-out_infinite] rounded-md text-white px-7 py-3 my-5 flex justify-center items-center">
                                 Start &nbsp; <FaArrowRight style={{ fontSize: '14px', marginTop: '2px' }} />
                             </button>

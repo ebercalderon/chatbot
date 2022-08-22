@@ -46,6 +46,11 @@ const Navbar = () => {
                                 OPTION 2
                             </NavLink>
                         </div>
+                        <div>
+                            <NavLink to="/chat" className="btn hover:bg-slate-300 dark:hover:bg-slate-600 btn-ghost rounded-btn mx-2">
+                                OPTION 3
+                            </NavLink>
+                        </div>
                     </div>
 
                 </div>
@@ -63,6 +68,11 @@ const Navbar = () => {
                         <div className="btn hover:bg-slate-300 dark:hover:bg-slate-500 btn-ghost rounded-btn mx-2">
                             <NavLink to='/section' onClick={handleClose}>
                                 OPTION 2
+                            </NavLink>
+                        </div>
+                        <div className="btn hover:bg-slate-300 dark:hover:bg-slate-500 btn-ghost rounded-btn mx-2">
+                            <NavLink to='/chat' onClick={handleClose}>
+                                OPTION 3
                             </NavLink>
                         </div>
                     </ul>
