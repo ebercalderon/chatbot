@@ -1,7 +1,7 @@
 import { NavLink } from "react-router-dom";
 import React, { useState } from 'react';
 import Logo from '../images/logo.png';
-import { useDarkMode } from "../utilities/Hooks/useDarkMode";
+import { useDarkMode } from "../utilities/hooks/useDarkMode";
 import { FaMoon, FaSun } from "react-icons/fa";
 import { HiMenu} from 'react-icons/hi';
 
