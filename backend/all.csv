@@ -1,0 +1,231 @@
+,id,name,intelligence,strength,power,combat,speed,gender,is_good,is_tall,is_short,is_weight,is_light,is_bald,eye_color,publisher,place_of_birth,image
+0,1,A-Bomb,0,2,0,1,0,1,1,1,0,1,0,1,Yellow,Marvel Comics,"Scarsdale, Arizona",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/1-a-bomb.jpg
+1,3,Abin Sur,1,2,2,1,1,1,1,1,0,0,0,1,Blue,DC Comics,Ungara,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/3-abin-sur.jpg
+2,4,Abomination,1,1,1,2,1,1,0,1,0,1,0,1,Green,Marvel Comics,"Zagreb, Yugoslavia",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/4-abomination.jpg
+3,6,Absorbing Man,0,1,2,1,0,1,0,1,0,0,0,1,Blue,Marvel Comics,"New York City, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/6-absorbing-man.jpg
+4,8,Adam Strange,1,0,0,1,0,1,1,1,0,0,0,0,Blue,DC Comics,"Chicago, Illinois",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/8-adam-strange.jpg
+5,12,Air-Walker,1,2,2,0,2,1,0,1,0,0,0,0,Blue,Marvel Comics,"Xandar, a planet in the Tranta system, Andromeda galaxy",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/12-air-walker.jpg
+6,14,Alan Scott,1,1,2,0,0,1,1,1,0,0,0,0,Blue,DC Comics,Gotham City,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/14-alan-scott.jpg
+7,24,Angel,1,0,0,1,1,1,1,1,0,0,1,0,Blue,Archangel,"Centerport, Long Island, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/24-angel.jpg
+8,29,Annihilus,1,1,1,1,1,1,0,1,0,0,0,1,Green,Marvel Comics,"Planet of Arthros, Sector 17A, Negative Zone",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/29-annihilus.jpg
+9,30,Ant-Man,2,0,0,0,0,1,1,1,0,0,0,0,Blue,Giant-Man,"Elmsford, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/30-ant-man.jpg
+10,31,Ant-Man II,1,0,1,0,0,1,1,1,0,0,0,0,Blue,Marvel Comics,"Coral Gables, Florida",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/31-ant-man-ii.jpg
+11,34,Anti-Venom,1,1,2,2,1,1,0,1,0,1,0,0,Blue,Toxin,"San Francisco, California",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/34-anti-venom.jpg
+12,35,Apocalypse,2,2,2,1,0,1,0,1,0,0,0,0,Red,Marvel Comics,"Akkaba, Egypt",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/35-apocalypse.jpg
+13,37,Aqualad,1,1,2,1,1,1,1,0,0,0,0,0,Blue,DC Comics,"Poseidonis, Atlantis",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/37-aqualad.jpg
+14,38,Aquaman,2,2,2,1,1,1,1,1,0,0,0,0,Blue,DC Comics,Atlantis,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/38-aquaman.jpg
+15,39,Arachne,1,1,1,1,1,0,1,0,0,0,1,0,Blue,Marvel Comics,"Los Angeles, California",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/39-arachne.jpg
+16,40,Archangel,1,0,0,1,1,1,1,1,0,0,1,0,Blue,Angel,"Centerport, Long Island, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/40-archangel.jpg
+17,41,Arclight,0,1,1,1,0,0,0,0,0,0,1,0,Violet,Marvel Comics,Vietnam,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/41-arclight.jpg
+18,48,Atlas,1,1,2,1,0,1,1,1,0,0,0,0,Brown,Goliath,"Milwaukee, Wisconsin",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/48-atlas.jpg
+19,49,Atlas,1,2,0,1,1,1,0,1,0,0,0,0,Blue,DC Comics,Crystal Mountain,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/49-atlas.jpg
+20,56,Aurora,1,0,1,1,2,0,1,1,0,0,1,0,Blue,Marvel Comics,"Montreal, Quebec, Canada",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/56-aurora.jpg
+21,57,Azazel,1,0,2,1,1,1,0,1,0,0,1,0,Yellow,Marvel Comics,"Isla des Demonas, Caribbean Sea",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/57-azazel.jpg
+22,61,Banshee,1,0,1,1,1,1,1,1,0,0,0,0,Green,Marvel Comics,"Cassidy Keep, Ireland",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/61-banshee.jpg
+23,66,Batgirl IV,1,0,1,2,0,0,1,0,1,0,1,0,Green,DC Comics,League of Assassins (exact base is unknown),https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/66-batgirl-iv.jpg
+24,69,Batman,2,0,1,2,0,1,1,0,0,0,0,0,Blue,DC Comics,"Gotham City, 25th Century",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/69-batman.jpg
+25,70,Batman,2,0,1,2,0,1,1,1,0,0,0,0,blue,DC Comics,"Crest Hill, Bristol Township; Gotham County",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/70-batman.jpg
+26,72,Battlestar,1,1,1,1,0,1,1,1,0,0,0,0,Brown,Marvel Comics,"Chicago, Illinois",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/72-battlestar.jpg
+27,75,Beast,2,1,1,2,0,1,1,1,0,0,0,0,Blue,Marvel Comics,"Dunfee, Illinois",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/75-beast.jpg
+28,92,Bishop,1,0,2,1,0,1,1,1,0,0,0,1,Brown,Marvel Comics,A mutant relocation camp in an undisclosed location on an alternate 21st Century Earth,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/92-bishop.jpg
+29,95,Black Adam,2,2,2,1,2,1,0,1,0,0,0,0,Brown,DC Comics,"Kahndaq, Egypt",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/95-black-adam.jpg
+30,96,Black Bolt,1,1,2,1,2,1,1,1,0,0,0,0,Blue,Marvel Comics,"Attilan, Atlantic Ocean",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/96-black-bolt.jpg
+31,99,Black Cat,1,0,0,1,0,0,1,0,0,0,1,0,Green,Marvel Comics,"Queens, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/99-black-cat.jpg
+32,102,Black Knight III,1,0,1,1,0,1,1,1,0,0,0,0,Brown,Marvel Comics,"Gloucester, Massachusetts",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/102-black-knight-iii.jpg
+33,104,Black Mamba,1,0,2,1,0,0,0,0,0,0,1,0,Green,Marvel Comics,"Chicago, Illinois",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/104-black-mamba.jpg
+34,106,Black Panther,2,0,1,2,0,1,1,1,0,0,0,0,Brown,Marvel Comics,"Wakanda, Africa",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/106-black-panther.jpg
+35,110,Blackwing,0,0,0,1,0,1,0,1,0,0,0,0,Blue,Marvel Comics,Professional Criminal,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/110-blackwing.jpg
+36,111,Blackwulf,1,0,1,0,0,1,0,1,0,0,0,0,Red,Marvel Comics,Armechadon,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/111-blackwulf.jpg
+37,112,Blade,1,0,0,2,0,1,1,1,0,0,0,0,Brown,Marvel Comics,"Soho, London,England",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/112-blade.jpg
+38,115,Blink,1,0,1,1,0,0,1,0,1,0,1,0,Green,Marvel Comics,Bahamas,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/115-blink.jpg
+39,118,Blizzard II,0,0,1,1,0,1,0,0,0,0,0,0,Brown,Marvel Comics,"Newark, Delaware",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/118-blizzard-ii.jpg
+40,119,Blob,0,2,0,1,0,1,0,0,0,1,0,0,Brown,Marvel Comics,"Lubbock, Texas",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/119-blob.jpg
+41,145,Cable,2,1,2,1,0,1,1,1,0,0,0,0,Blue,Marvel Comics,Unrevealed location in the 20th Century United States,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/145-cable.jpg
+42,148,Cannonball,1,0,2,1,1,1,1,1,0,0,0,0,Blue,Marvel Comics,"Cumberland County, Kentucky",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/148-cannonball.jpg
+43,149,Captain America,1,0,1,2,0,1,1,1,0,0,0,0,blue,Marvel Comics,"Manhattan, New York City, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/149-captain-america.jpg
+44,151,Captain Britain,1,1,0,1,1,1,1,1,0,0,0,0,Blue,Marvel Comics,"Braddock Manor, England",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/151-captain-britain.jpg
+45,156,Captain Marvel,2,2,2,1,2,1,1,1,0,0,0,0,Blue,DC Comics,"Fawcett City, United States",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/156-captain-marvel.jpg
+46,157,Captain Marvel,2,2,2,2,1,0,1,1,0,0,0,0,Blue,Binary,"Boston, Massachusetts",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/157-captain-marvel.jpg
+47,165,Catwoman,1,0,0,2,0,0,1,0,0,0,1,0,Green,DC Comics,Gotham City,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/165-catwoman.jpg
+48,169,Chamber,1,0,1,1,0,1,1,0,0,0,1,0,Brown,Marvel Comics,United Kingdom,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/169-chamber.jpg
+49,180,Cloak,1,0,2,1,1,1,1,1,0,0,0,0,brown,Marvel Comics,"South Boston, Massachusetts",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/180-cloak.jpg
+50,185,Colossus,1,2,1,1,0,1,1,1,0,1,0,0,Silver,Marvel Comics,"Ust-Ordynski Collective, near Lake Baikal, Siberia, Russia",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/185-colossus.jpg
+51,191,Crystal,1,0,1,1,0,0,1,0,1,0,1,0,Green,Marvel Comics,Attilan,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/191-crystal.jpg
+52,194,Cyborg,1,1,1,1,1,1,1,1,0,0,0,0,Brown,DC Comics,"New York City, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/194-cyborg.jpg
+53,196,Cyclops,1,0,1,1,0,1,1,1,0,0,0,0,Brown,Marvel Comics,"Anchorage, Alaska",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/196-cyclops.jpg
+54,201,Daredevil,1,0,1,2,0,1,1,1,0,0,0,0,Blue,Marvel Comics,"New York City, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/201-daredevil.jpg
+55,202,Darkhawk,1,0,1,1,0,1,1,1,0,0,0,0,Brown,Marvel Comics,"Queens, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/202-darkhawk.jpg
+56,206,Darkstar,0,0,1,1,0,0,1,0,1,0,1,0,Brown,Marvel Comics,"Minks, USSR",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/206-darkstar.jpg
+57,208,Darth Vader,1,1,2,2,0,1,0,1,0,0,0,1,Yellow,George Lucas,Tatooine,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/208-darth-vader.jpg
+58,211,Dazzler,1,0,2,1,0,0,1,0,0,0,1,0,Blue,Marvel Comics,"Gardendale, Long Island, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/211-dazzler.jpg
+59,213,Deadpool,1,0,2,2,1,1,0,1,0,0,0,1,Brown,Evil Deadpool,Canada,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/213-deadpool.jpg
+60,221,Doc Samson,1,1,0,1,0,1,1,1,0,0,0,0,Blue,Marvel Comics,"Tulsa, Oklahoma",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/221-doc-samson.jpg
+61,222,Doctor Doom,2,0,2,2,0,1,0,1,0,0,0,0,Brown,Marvel Comics,"Haasenstadt, Latveria",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/222-doctor-doom.jpg
+62,225,Doctor Octopus,2,1,1,1,0,1,0,0,0,0,0,0,Brown,Marvel Comics,"Schenectady, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/225-doctor-octopus.jpg
+63,226,Doctor Strange,2,0,2,1,0,1,1,1,0,0,0,0,Grey,Marvel Comics,"Philadelphia, Pennsylvania",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/226-doctor-strange.jpg
+64,227,Domino,1,0,1,1,0,0,1,0,0,0,1,0,Blue,Marvel Comics,"Project: Armageddon base, Everglades, Florida",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/227-domino.jpg
+65,230,Doomsday,1,2,2,2,1,1,0,1,0,1,0,0,Red,DC Comics,Krypton,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/230-doomsday.jpg
+66,231,Doppelganger,0,1,1,2,1,1,0,1,0,0,0,1,White,Marvel Comics,The Dimension of Manifestations,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/231-doppelganger.jpg
+67,234,Drax the Destroyer,1,1,1,1,0,1,1,1,0,1,0,1,Red,Marvel Comics,"Burbank, California",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/234-drax-the-destroyer.jpg
+68,241,Emma Frost,1,1,2,1,0,0,1,0,0,0,1,0,Blue,Marvel Comics,"Boston, Massachusetts",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/241-emma-frost.jpg
+69,246,Etrigan,1,2,2,1,0,1,0,1,0,1,0,1,Red,DC Comics,Hell,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/246-etrigan.jpg
+70,251,Falcon,0,0,0,1,1,1,1,1,0,0,0,0,Brown,Marvel Comics,"New York, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/251-falcon.jpg
+71,254,Feral,0,0,0,1,1,0,1,0,0,0,1,0,Yellow (without irises),Marvel Comics,Place of birth unknown,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/254-feral.jpg
+72,257,Firebird,0,0,2,1,0,0,1,0,1,0,1,0,Brown,Marvel Comics,"Buena Vista, New Mexico",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/257-firebird.jpg
+73,258,Firelord,0,1,1,0,1,0,1,1,0,0,0,0,White,Marvel Comics,"Xander, planet in Tranta System, Andromeda Galaxy",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/258-firelord.jpg
+74,259,Firestar,1,0,1,0,1,0,1,0,0,0,1,0,Green,Marvel Comics,Place of birth unknown,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/259-firestar.jpg
+75,263,Flash,1,0,1,0,2,1,1,1,0,0,0,0,Blue,DC Comics,"Hibbardsville, Kansas",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/263-flash.jpg
+76,265,Flash II,2,1,2,1,2,1,1,1,0,0,0,0,Blue,Black Racer,"Fallville, Iowa",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/265-flash-ii.jpg
+77,268,Forge,1,0,0,1,0,0,1,1,0,0,0,0,Brown,Marvel Comics,"Unrevealed, presumably in the American West",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/268-forge.jpg
+78,269,Franklin Richards,1,1,2,1,1,1,1,0,1,0,1,0,Blue,Marvel Comics,"New York, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/269-franklin-richards.jpg
+79,270,Franklin Storm,0,0,0,0,0,0,1,1,0,0,0,0,Blue,Marvel Comics,Place of birth unknown,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/270-franklin-storm.jpg
+80,273,Galactus,2,2,2,1,2,1,0,1,0,1,0,0,Black,Marvel Comics,(Galan) Taa; (Galactus) the Cosmic Egg,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/273-galactus.jpg
+81,274,Gambit,1,0,1,2,0,1,1,1,0,0,0,0,Red,Marvel Comics,"New Orleans, Louisiana",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/274-gambit.jpg
+82,275,Gamora,1,2,1,2,1,0,1,1,0,0,0,0,Yellow,Marvel Comics,"Planet Zen Whoberi, Silican System, Milky Way",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/275-gamora.jpg
+83,280,Ghost Rider,1,1,2,1,0,1,1,1,0,0,0,1,Red,Marvel Comics,"Waukegan, Illinois",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/280-ghost-rider.jpg
+84,286,Goblin Queen,1,0,1,1,0,0,0,0,1,0,1,0,Green,Marvel Comics,"Created in Sinister's Labs, Nebraska",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/286-goblin-queen.jpg
+85,296,Gravity,1,0,1,0,0,1,1,0,0,0,0,0,Blue,Marvel Comics,"Sheboygan, Wisconsin",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/296-gravity.jpg
+86,299,Green Goblin,2,1,1,1,0,1,0,1,0,0,0,0,Blue,Marvel Comics,"Hartford, Connecticut",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/299-green-goblin.jpg
+87,300,Green Goblin II,1,1,1,0,0,1,0,0,0,0,0,0,Blue,Marvel Comics,New York City,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/300-green-goblin-ii.jpg
+88,305,Guy Gardner,0,2,2,1,1,1,1,1,0,0,0,0,Blue,DC Comics,"Baltimore, Maryland",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/305-guy-gardner.jpg
+89,306,Hal Jordan,1,2,2,1,1,1,1,1,0,0,0,0,Brown,DC Comics,"Coast City, California",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/306-hal-jordan.jpg
+90,307,Han Solo,1,0,1,1,0,1,1,1,0,0,0,0,Brown,George Lucas,Corellia,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/307-han-solo.jpg
+91,311,Havok,1,0,1,1,0,1,1,1,0,0,0,0,Blue,Marvel Comics,"Honolulu, Hawaii",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/311-havok.jpg
+92,313,Hawkeye,1,0,0,1,0,1,1,1,0,0,0,0,Blue,Goliath,"Waverly, Iowa",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/313-hawkeye.jpg
+93,314,Hawkeye II,1,0,0,1,0,0,1,0,1,0,1,0,Blue,Marvel Comics,"New York City, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/314-hawkeye-ii.jpg
+94,323,Hellcat,1,0,1,1,0,0,1,0,0,0,1,0,Blue,Marvel Comics,"Centerville, CA USA",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/323-hellcat.jpg
+95,325,Hercules,1,2,2,2,1,1,1,1,0,0,0,0,Blue,Marvel Comics,"Thebes, Greece",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/325-hercules.jpg
+96,332,Hulk,2,2,2,2,1,1,1,1,0,1,0,0,Green,Marvel Comics,"Dayton, Ohio",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/332-hulk.jpg
+97,333,Human Torch,1,0,2,1,1,1,1,0,0,0,0,0,Blue,Marvel Comics,"Glenville, Long Island, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/333-human-torch.jpg
+98,335,Husk,1,1,1,1,0,0,1,0,0,0,1,0,Blue,Marvel Comics,"Cumberland, Kentucky",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/335-husk.jpg
+99,336,Hybrid,1,1,2,1,1,1,1,0,0,0,0,0,Brown,Marvel Comics,"Bedford-Stuyvesant, Brooklyn, New York City",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/336-hybrid.jpg
+100,337,Hydro-Man,0,0,1,1,0,1,0,1,0,0,0,0,Brown,Marvel Comics,"Bronx, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/337-hydro-man.jpg
+101,339,Iceman,1,0,2,1,1,1,1,0,0,0,1,0,Brown,Marvel Comics,"Fort Washington, Long Island, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/339-iceman.jpg
+102,344,Invisible Woman,2,0,2,1,0,0,1,0,1,0,1,0,blue,Marvel Comics,"Glenville, Long Island, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/344-invisible-woman.jpg
+103,346,Iron Man,2,2,2,1,1,1,1,1,0,0,0,0,Blue,Marvel Comics,"Long Island, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/346-iron-man.jpg
+104,350,Jack of Hearts,1,1,1,0,2,1,1,0,1,0,0,0,Blue / White,Marvel Comics,"New Haven, Connecticut",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/350-jack-of-hearts.jpg
+105,353,James T. Kirk,1,0,0,1,0,1,1,0,0,0,0,0,Hazel,Star Trek,"Riverside, Iowa, Earth",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/353-james-t.-kirk.jpg
+106,358,Jennifer Kale,1,0,1,1,0,0,1,0,1,0,1,0,Blue,Marvel Comics,"Citrusville, Florida",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/358-jennifer-kale.jpg
+107,361,Jessica Jones,1,1,0,1,1,0,1,0,0,0,1,0,Brown,Power Woman,"Forrest Hills, New York City",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/361-jessica-jones.jpg
+108,371,Jolt,1,0,0,1,0,0,1,0,1,0,1,0,Blue,Marvel Comics,"Ojai, California",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/371-jolt.jpg
+109,372,Jubilee,1,0,1,2,0,0,1,0,1,0,1,0,Red,Marvel Comics,"Beverly Hills, California",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/372-jubilee.jpg
+110,374,Juggernaut,1,2,2,1,1,1,0,1,0,1,0,0,Blue,Marvel Comics,"Berkeley, California",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/374-juggernaut.jpg
+111,379,Kang,2,1,2,1,1,1,0,1,0,0,0,0,Brown,Iron Lad,"Other Earth, 31st century",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/379-kang.jpg
+112,388,Kilowog,2,2,2,1,1,1,1,1,0,1,0,1,Red,DC Comics,Bolovax Vik,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/388-kilowog.jpg
+113,389,King Kong,1,2,1,1,1,1,1,1,0,1,0,0,Yellow,,Skull Island,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/389-king-kong.jpg
+114,391,Kingpin,1,0,0,1,0,1,0,1,0,1,0,1,Blue,Marvel Comics,New York City area,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/391-kingpin.jpg
+115,392,Klaw,1,0,1,1,0,1,0,1,0,0,0,1,Red,Marvel Comics,"Vlaardingen, Netherlands",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/392-klaw.jpg
+116,395,Kraven the Hunter,1,0,0,2,0,1,0,1,0,0,0,0,Brown,Marvel Comics,"Volgograd (formerly Stalingrad), Russia",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/395-kraven-the-hunter.jpg
+117,397,Kyle Rayner,1,2,2,1,1,1,1,1,0,0,0,0,Green,DC Comics,"North Hollywood, Los Angeles, California",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/397-kyle-rayner.jpg
+118,400,Lady Deathstrike,1,0,1,2,1,0,0,0,0,0,1,0,Brown,Marvel Comics,"Osaka, Japan",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/400-lady-deathstrike.jpg
+119,401,Leader,2,0,1,1,0,1,0,0,0,0,1,1,Green,Marvel Comics,"Boise, Idaho",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/401-leader.jpg
+120,403,Legion,1,2,2,1,1,1,1,0,0,0,1,0,Green / Blue,Marvel Comics,Israel,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/403-legion.jpg
+121,412,Lizard,1,1,1,1,0,1,0,1,0,1,0,1,Red,Marvel Comics,"Coral Gables, Florida",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/412-lizard.jpg
+122,414,Loki,2,1,2,1,1,1,0,1,0,1,0,0,Green,Marvel Comics,"Jotunheim, Asgard",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/414-loki.jpg
+123,416,Luke Cage,1,1,1,1,0,1,1,1,0,0,0,0,Brown,Power Man,"Harlem, New York City",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/416-luke-cage.jpg
+124,418,Luke Skywalker,1,0,2,2,1,1,1,0,1,0,0,0,Blue,George Lucas,Tatooine,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/418-luke-skywalker.jpg
+125,421,Mach-IV,1,0,1,1,1,1,0,1,0,0,0,0,Brown,Marvel Comics,"Baltimore, Maryland",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/421-mach-iv.jpg
+126,422,Machine Man,1,0,1,1,0,0,1,1,0,1,0,0,Red,Marvel Comics,"Central City, California",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/422-machine-man.jpg
+127,423,Magneto,2,1,2,1,0,1,0,1,0,0,0,0,Grey,Marvel Comics,"Unrevealed, probably somewhere in Northern Europe",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/423-magneto.jpg
+128,429,Man-Wolf,1,1,1,1,0,1,1,1,0,0,0,0,Brown,Marvel Comics,"New York, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/429-man-wolf.jpg
+129,430,Mandarin,2,0,2,2,0,1,0,1,0,0,0,0,Blue,Marvel Comics,China,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/430-mandarin.jpg
+130,431,Mantis,1,0,2,1,0,0,1,0,1,0,1,0,Green,Marvel Comics,Vietnam,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/431-mantis.jpg
+131,439,Maxima,1,2,2,1,0,0,0,1,0,0,0,0,Brown,DC Comics,Almerac,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/439-maxima.jpg
+132,441,Medusa,1,0,0,1,0,0,1,1,0,0,1,0,Green,Marvel Comics,"Island of Attilan, Atlantic Ocean",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/441-medusa.jpg
+133,442,Meltdown,0,0,1,1,0,0,1,0,1,0,1,0,Blue,Boom-Boom,"Roanoke, Virginia",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/442-meltdown.jpg
+134,443,Mephisto,2,2,2,1,0,1,0,1,0,0,0,0,White,Marvel Comics,Hell,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/443-mephisto.jpg
+135,452,Mimic,1,1,1,1,1,1,1,1,0,0,0,0,Brown,Marvel Comics,"Passiac, New Jersey",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/452-mimic.jpg
+136,455,Miss Martian,1,2,2,1,1,0,1,0,0,0,1,0,Red,DC Comics,Mars,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/455-miss-martian.jpg
+137,456,Mister Fantastic,2,0,0,1,0,1,1,1,0,0,0,0,Brown,Marvel Comics,"Central City, California",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/456-mister-fantastic.jpg
+138,460,Mister Sinister,2,1,2,1,1,1,0,1,0,0,0,0,Red,Marvel Comics,"London, England",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/460-mister-sinister.jpg
+139,462,Mockingbird,1,0,1,2,0,0,1,0,0,0,1,0,Blue,Marvel Comics,"San Diego, California",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/462-mockingbird.jpg
+140,470,Moon Knight,1,0,0,1,0,1,1,1,0,0,0,0,Brown,Marvel Comics,"Chicago, Illinois",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/470-moon-knight.jpg
+141,471,Moonstone,1,1,1,1,1,0,0,1,0,0,1,0,Blue,Marvel Comics,"Van Nuys, California",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/471-moonstone.jpg
+142,477,Ms Marvel II,0,1,0,1,0,0,1,0,0,0,1,0,Blue,She-Thing,"Pullman, Washington",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/477-ms-marvel-ii.jpg
+143,478,Multiple Man,1,0,0,1,0,1,1,1,0,0,0,0,Blue,Marvel Comics,"Los Alamos, New Mexico",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/478-multiple-man.jpg
+144,479,Mysterio,2,0,2,1,0,1,0,1,0,0,0,1,Brown,Marvel Comics,"New York, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/479-mysterio.jpg
+145,481,Namor,1,2,1,2,1,1,1,1,0,0,0,0,Grey,Marvel Comics,Atlantis,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/481-namor.jpg
+146,483,Namora,1,2,1,1,1,0,1,1,0,0,0,0,Blue,Marvel Comics,Unnamed Atlantean outpost,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/483-namora.jpg
+147,484,Namorita,1,1,0,1,1,0,1,0,1,0,0,0,Blue,Marvel Comics,Atlantis Outskirts,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/484-namorita.jpg
+148,489,Nick Fury,1,0,0,2,0,1,1,1,0,0,0,0,Brown,Marvel Comics,New York City,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/489-nick-fury.jpg
+149,490,Nightcrawler,1,0,1,1,1,1,1,0,0,0,0,0,Yellow,Marvel Comics,Somewhere in the Bavarian Alps,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/490-nightcrawler.jpg
+150,491,Nightwing,2,0,0,2,0,1,1,0,0,0,0,0,Blue,Batman II,Gotham City,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/491-nightwing.jpg
+151,495,Northstar,1,0,1,1,2,1,1,1,0,0,0,0,Blue,Marvel Comics,"Montreal, Qu?bec, Canada",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/495-northstar.jpg
+152,496,Nova,2,2,2,1,1,1,1,1,0,0,0,0,Brown,Marvel Comics,"Queens, NY",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/496-nova.jpg
+153,498,Odin,2,2,2,2,1,1,1,1,0,1,0,0,Blue,Marvel Comics,Asgard,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/498-odin.jpg
+154,518,Plantman,1,1,1,0,0,1,0,1,0,0,0,0,Green,Marvel Comics,"London, England",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/518-plantman.jpg
+155,522,Poison Ivy,2,0,2,0,0,0,0,0,1,0,1,0,Green,DC Comics,"Seattle, Washington",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/522-poison-ivy.jpg
+156,523,Polaris,1,1,2,1,1,0,1,0,0,0,1,0,Green,Marvel Comics,Presumably northern California - not confirmed,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/523-polaris.jpg
+157,527,Professor X,2,0,2,0,0,1,1,1,0,0,0,1,Blue,Marvel Comics,"New York, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/527-professor-x.jpg
+158,529,Psylocke,1,0,2,2,0,0,1,1,0,0,0,0,Blue,Marvel Comics,"Braddock Manor, England",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/529-psylocke.jpg
+159,530,Punisher,1,0,1,2,0,1,1,1,0,0,0,0,Blue,Marvel Comics,"Queens, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/530-punisher.jpg
+160,532,Pyro,0,0,1,0,0,1,0,0,0,0,1,0,Blue,Marvel Comics,"Sydney, Australia",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/532-pyro.jpg
+161,536,Quicksilver,1,0,2,1,2,1,1,1,0,0,0,0,Blue,Marvel Comics,"Wundagore Mountain, Transia (in Eastern Europe)",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/536-quicksilver.jpg
+162,538,Ra's Al Ghul,2,0,0,2,0,1,0,1,0,0,0,0,Green,DC Comics,Egypt,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/538-ras-al-ghul.jpg
+163,540,Rambo,1,0,0,2,0,1,1,0,0,0,0,0,Brown,,"Bowie, Arizona",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/540-rambo.jpg
+164,542,Raven,1,0,2,0,0,0,0,0,1,0,1,0,Indigo,DC Comics,Azarath,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/542-raven.jpg
+165,549,Red Robin,2,0,0,1,0,1,1,0,1,0,1,0,Blue,Robin III,Gotham City,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/549-red-robin.jpg
+166,550,Red Skull,1,0,0,1,0,1,0,1,0,0,0,1,Blue,Marvel Comics,An unidentified village in Germany,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/550-red-skull.jpg
+167,567,Rogue,1,0,1,1,0,0,1,0,0,0,1,0,Green,Marvel Comics,"Caldecott County, Mississippi",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/567-rogue.jpg
+168,568,Ronin,1,0,0,1,0,1,1,1,0,0,0,0,Blue,Goliath,"Waverly, Iowa",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/no-portrait.jpg
+169,571,Sage,1,0,0,1,0,0,1,0,0,0,1,0,Blue,Marvel Comics,Place of birth unknown,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/571-sage.jpg
+170,572,Sandman,1,1,2,1,1,1,0,1,0,1,0,0,Brown,Marvel Comics,"Queens, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/572-sandman.jpg
+171,573,Sasquatch,1,1,0,1,0,1,1,1,0,1,0,0,Red,Marvel Comics,"Edmonton, Alberta, Canada",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/573-sasquatch.jpg
+172,577,Scarlet Spider,1,1,1,1,1,1,1,0,0,0,0,0,Blue,Spider-Carnage,Place of birth unknown,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/577-scarlet-spider.jpg
+173,579,Scarlet Witch,2,0,2,1,0,0,0,0,0,0,1,0,Blue,Marvel Comics,"Wundagore Mountain, Transia",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/579-scarlet-witch.jpg
+174,585,Shadow Lass,1,0,1,1,1,0,1,0,0,0,1,0,Black,DC Comics,Talok VIII,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/585-shadow-lass.jpg
+175,586,Shadowcat,2,0,1,1,0,0,1,0,1,0,1,0,Hazel,Marvel Comics,"Deerfield, Illinois",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/586-shadowcat.jpg
+176,588,Shatterstar,1,1,1,2,1,1,1,1,0,0,0,0,Brown,Marvel Comics,Mojoworld,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/588-shatterstar.jpg
+177,589,She-Hulk,2,2,0,1,1,0,1,1,0,1,0,0,Green,Marvel Comics,"Los Angeles, California",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/589-she-hulk.jpg
+178,598,Silver Surfer,1,2,2,0,2,1,1,1,0,0,0,1,White,Marvel Comics,Zenn-La,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/598-silver-surfer.jpg
+179,599,Silverclaw,1,0,0,1,0,0,1,0,1,0,1,0,Brown,Marvel Comics,"The village of Kamekeri, Costa Verde",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/599-silverclaw.jpg
+180,601,Sinestro,1,2,2,1,1,1,0,1,0,0,0,0,Black,DC Comics,"Korugar City, Korugar",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/601-sinestro.jpg
+181,604,Siryn,0,0,1,1,1,0,0,0,1,0,1,0,Blue,Marvel Comics,"Cassidy Keep, County Mayo, Ireland",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/604-siryn.jpg
+182,605,Skaar,1,2,1,2,0,1,1,1,0,0,0,0,Green,Marvel Comics,Sakaar,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/605-skaar.jpg
+183,607,Snowbird,1,0,1,1,0,0,1,0,0,0,1,0,White,Marvel Comics,"Near Resolute Bay, Northwest Territories, Canada",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/607-snowbird.jpg
+184,609,Solomon Grundy,0,2,2,0,0,1,0,1,0,1,0,0,Black,DC Comics,Gotham City,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/609-solomon-grundy.jpg
+185,610,Songbird,1,0,1,1,0,0,1,0,1,0,1,0,Green,Marvel Comics,"Shoshoni, Wyoming",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/610-songbird.jpg
+186,612,Spawn,1,1,2,2,1,1,1,1,0,1,0,0,Brown,Image Comics,"Detroit, Michigan (8th level of Hell after rebirth)",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/612-spawn.jpg
+187,618,Spider-Girl,1,0,1,1,1,0,1,0,0,0,1,0,Blue,Marvel Comics,"New York City, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/618-spider-girl.jpg
+188,620,Spider-Man,2,1,1,2,1,1,1,0,0,0,0,0,Hazel,Marvel Comics,"New York, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/620-spider-man.jpg
+189,623,Spider-Woman,1,1,1,1,1,0,1,0,0,0,1,0,Green,Marvel Comics,"London, England",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/623-spider-woman.jpg
+190,625,Spider-Woman III,1,1,1,0,0,0,1,0,0,0,1,0,Brown,Marvel Comics,"Rochester, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/625-spider-woman-iii.jpg
+191,632,Starfire,1,1,1,1,0,0,1,1,0,0,0,0,Green,DC Comics,Tamaran,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/632-starfire.jpg
+192,634,Static,1,0,2,0,1,1,1,0,0,0,1,0,Brown,DC Comics,"Paris Island, Dakota City",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/634-static.jpg
+193,635,Steel,2,2,1,1,1,1,1,1,0,0,0,1,Brown,DC Comics,"Washington, D.C.",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/635-steel.jpg
+194,638,Storm,1,0,2,1,1,0,1,1,0,0,1,0,Blue,Marvel Comics,"New York, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/638-storm.jpg
+195,640,Sunspot,1,1,2,1,0,1,1,0,0,0,0,0,brown,Marvel Comics,"Rio de Janeiro, Brazil",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/640-sunspot.jpg
+196,641,Superboy,1,2,2,1,2,1,1,0,0,0,1,0,Blue,DC Comics,Project Cadmus cloning facility,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/641-superboy.jpg
+197,642,Superboy-Prime,2,2,2,2,2,1,0,1,0,0,0,0,Blue,DC Comics,Krypton (Earth-Prime),https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/642-superboy-prime.jpg
+198,643,Supergirl,2,2,2,1,2,0,1,0,1,0,1,0,Blue,DC Comics,"Argo City, Krypton",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/643-supergirl.jpg
+199,644,Superman,2,2,2,2,2,1,1,1,0,0,0,0,Blue,Superman Prime One-Million,Krypton,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/644-superman.jpg
+200,655,Thanos,2,2,2,1,0,1,0,1,0,1,0,1,Red,Marvel Comics,Titan,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/655-thanos.jpg
+201,658,Thing,1,2,0,1,0,1,1,1,0,1,0,1,Blue,Marvel Comics,"New York City, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/658-thing.jpg
+202,659,Thor,1,2,2,2,2,1,1,1,0,1,0,0,Blue,Rune King Thor,Asgard,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/659-thor.jpg
+203,661,Thunderbird,1,0,0,1,0,1,1,1,0,0,0,0,Brown,Marvel Comics,"Camp Verde, Arizona",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/661-thunderbird.jpg
+204,666,Tiger Shark,0,1,1,0,1,1,0,1,0,1,0,1,Grey,Marvel Comics,"Pasadena, California",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/666-tiger-shark.jpg
+205,667,Tigra,1,0,0,2,1,0,1,0,0,0,0,0,Green,Marvel Comics,Presumably Chicago Illinois USA,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/667-tigra.jpg
+206,670,Toad,1,0,1,0,1,1,0,0,0,0,0,0,Black,Marvel Comics,"York, England",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/670-toad.jpg
+207,671,Toxin,1,1,2,1,1,1,1,1,0,0,0,0,Blue,Marvel Comics,New York City,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/671-toxin.jpg
+208,672,Toxin,1,1,2,1,1,1,1,1,0,0,0,0,Black,Anti-Venom,"San Francisco, California",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/672-toxin.jpg
+209,677,Triton,1,1,0,1,1,1,1,1,0,0,0,1,Green,Marvel Comics,"Island of Attilan, Atlantic Ocean",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/677-triton.jpg
+210,680,Ultron,2,2,2,1,1,1,0,1,0,1,0,0,Red,Marvel Comics,"Created in Cresskill, New Jersey",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/680-ultron.jpg
+211,681,Utgard-Loki,1,1,2,1,0,1,0,1,0,1,0,0,Blue,Marvel Comics,Jotunheim,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/681-utgard-loki.jpg
+212,685,Vanisher,1,0,1,1,1,1,0,0,1,0,0,1,Green,Marvel Comics,"Boston, Massachusetts",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/685-vanisher.jpg
+213,687,Venom,1,1,2,2,1,1,0,1,0,0,0,0,Blue,Anti-Venom,"New York, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/687-venom.jpg
+214,693,Vindicator,1,1,1,1,1,0,1,0,1,0,1,0,Green,Vindicator II,"Calgary, Alberta, Canada",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/693-vindicator.jpg
+215,699,Vixen,1,0,1,0,1,0,1,0,0,0,1,0,Amber,DC Comics,Zambesi,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/699-vixen.jpg
+216,701,Vulture,1,0,0,0,1,1,0,1,0,0,0,1,Brown,Marvel Comics,"Staten Island, New York City",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/701-vulture.jpg
+217,702,Walrus,1,0,0,0,0,1,0,1,0,0,0,0,Blue,Marvel Comics,"Brooklyn, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/702-walrus.jpg
+218,703,War Machine,1,1,2,2,1,1,1,1,0,0,0,0,Brown,Marvel Comics,"Philadelphia, Pennsylvania",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/703-war-machine.jpg
+219,705,Warlock,2,0,1,2,1,1,1,1,0,0,0,0,Red,Marvel Comics,"The Beehive, Shard Island, Atlantic Ocean",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/705-warlock.jpg
+220,707,Warpath,0,1,0,2,1,1,1,1,0,0,0,0,Brown,Thunderbird II,"Camp Verde, Arizona",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/707-warpath.jpg
+221,708,Wasp,1,0,0,1,1,0,1,0,1,0,1,0,Blue,Marvel Comics,"Cresskill, New Jersey",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/708-wasp.jpg
+222,716,Wolfsbane,0,0,0,1,0,0,1,1,0,1,0,0,Green,Marvel Comics,"Somewhere in Ross and Cromarty, Scotland",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/716-wolfsbane.jpg
+223,717,Wolverine,1,0,2,2,1,1,1,0,1,0,0,0,Blue,Marvel Comics,"Alberta, Canada",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/717-wolverine.jpg
+224,719,Wonder Man,1,2,1,1,1,1,1,1,0,0,0,0,Red,Marvel Comics,"Paterson, New Jersey",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/719-wonder-man.jpg
+225,720,Wonder Woman,2,2,2,2,1,0,1,1,0,0,0,0,Blue,DC Comics,Themyscira,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/720-wonder-woman.jpg
+226,722,Wyatt Wingfoot,0,0,0,1,0,1,1,1,0,0,0,0,Brown,Marvel Comics,"Keewazi Reservation, Oklahoma",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/722-wyatt-wingfoot.jpg
+227,723,X-23,1,0,1,2,1,0,1,0,1,0,1,0,Green,Marvel Comics,"The Facility, location unrevealed",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/723-x-23.jpg
+228,724,X-Man,2,1,2,2,1,1,1,0,0,0,1,0,Blue,Marvel Comics,American Northeast of Earth-295,https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/724-x-man.jpg
+229,726,Yellowjacket,2,0,0,0,0,1,1,1,0,0,0,0,Blue,Ant-Man,"Elmsford, New York",https://cdn.rawgit.com/akabab/superhero-api/0.2.0/api/images/lg/726-yellowjacket.jpg
