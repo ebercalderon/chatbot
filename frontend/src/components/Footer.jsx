@@ -2,12 +2,6 @@ import React from 'react';
 import { BsArrowUpCircleFill } from 'react-icons/bs';
 
 const Footer = () => {
-    window.onload = (function () {
-        setTimeout(() => {
-            const chatBtn = document.getElementById("chat-icon");
-            chatBtn.classList.toggle("expanded");
-        }, 3000);
-    });
 
     window.onscroll = (function () {
         if (window.scrollY > 15) {
